@@ -37,6 +37,15 @@
   margin: 2vmax;
   box-sizing: border-box;
 }
+#roomInput {
+  width: 25vmax;
+  padding: 1.5vmax;
+  border: none;
+  outline: none;
+  font-size: 1.2vmax;
+  margin: 2vmax;
+  box-sizing: border-box;
+}
 .joinbtn {
   width: 25vmax;
   padding: 1.5vmax;
